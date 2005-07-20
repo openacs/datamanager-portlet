@@ -16,5 +16,5 @@
     #
 %>
 <ul>
-  <li><a href=datamanager/datamanager>#datamanager-portlet.go_to_admin_site#</a>
+  <li><a href=datamanager/>#datamanager-portlet.go_to_admin_site#</a>
 </ul>

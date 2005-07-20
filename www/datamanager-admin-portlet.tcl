@@ -17,9 +17,9 @@
 ad_page_contract {
     The display logic for the datamanager admin portlet
 
-    @author YYY ZZZ (YYY.ZZZ@xx.yy)
-    @creation-date 2004-10-10
-    @version $Id: datamanager-admin-portlet.tcl,v 0.1 2004/10/10
+    @author Luis de la Fuente (lfuente@it.uc3m.es)
+    @creation-date 2005-07-07
+    @version $Id: datamanager-admin-portlet.tcl,v 0.1 2005/07/07
 
 } -properties {
 }

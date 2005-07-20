@@ -1,5 +1,5 @@
 --
--- Copyright (C) 2004 University XYZ
+-- Copyright (C) 2004 University Carlos III de Madrid
 --
 --  This file is part of dotLRN.
 --
