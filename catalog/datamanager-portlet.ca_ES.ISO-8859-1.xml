@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="datamanager-portlet" package_version="0.1d" locale="ca_ES" charset="ISO-8859-1">
+  <msg key="go_to_admin_site">Anar a la pàgina de DataManager</msg>
+  <msg key="admin_pretty_name">Administració de Datamanager</msg>
+  <msg key="pretty_name">Data Manager</msg>
+  <msg key="datamanager">Datamanager</msg>  
+</message_catalog>
